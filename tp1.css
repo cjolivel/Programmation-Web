@@ -1,5 +1,8 @@
 body{background-color: black;}
 
+*{font-family : "Times New Roman"}
+
+h1, h2{font-family : "Georgia";}
 
 .classique{color : green;}
 
